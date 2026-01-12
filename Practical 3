@@ -1,0 +1,99 @@
+<!DOCTYPE=html>
+<html>
+         <head>
+         <title>PRACTICAL 3- Student Registration Form</title>    
+         </head>
+  <body bgcolor="LightBlue">
+  <form>
+  <table align="center" width="1000" cellspacing="10" cellpadding="5">
+  <tr>
+     <td colspan="20" align="center">
+     <h1><u>STUDENT'S REGISTRATION FORM</u></h1>
+     </td>
+  </tr>
+  <tr>
+       <td>Student's name :</td>
+       <td>
+       <input type="text" size="20" Placeholder="First Name"/>
+       <input type="text" size="20" Placeholder="Last Name"/>
+       </td>
+  </tr>
+  <tr>
+      <td>Father's name :</td>
+      <td><input type="text" size="20"/></td>
+      <td>Mother's name: </td>
+      <td><input type="text" size="20"></td>
+  </tr>
+  <tr>
+      <td>PRN : </td>
+      <td><input type="text" size="20"/></td>
+      <td>Mobile no. :</td>
+      <td>
+      <input type="text" size="1" value="+91" /> -
+      <input type="text" size="20" /></td>
+  </tr>
+  <tr>
+      <td>Date of birth :</td>
+      <td>
+         <input type="text" size="1" Placeholder="Day"/> - 
+         <input type="text" size="2" Placeholder="Month"/> -
+         <input type="text" size="3" Placeholder="Year"/> 
+         <i>(DD-MM-YYYY)</i>
+      </td>
+      <td>Gender :</td>
+      <td>
+         <input type="radio" name="g" /> Male
+         <input type="radio" name="g" /> Female
+      </td>
+  </tr>
+  <tr>
+       <td>Address :</td>
+       <td><textarea cols="47" rows="5"></textarea></td>
+       <td>Pincode :</td>
+       <td><input type="text" size="15"</td>
+  </tr>
+      <td> City :</td>
+      <td><input type="text" size="15"/></td>
+      <td>State :</td>    
+      <td><input type="text" size="15"/></td>
+  </tr>  
+  </tr>
+  <tr>
+      <td>College Email id :</td>
+      <td><input type="text" size="40" 
+      Placeholder="name.surnamebatch2025@sitnagpur.siu.edu.in" /></td>
+  </tr>
+  <tr>
+      <td>Course :</td>
+      <td>
+      <input type="radio" name="C"/> CSE
+      <input type="radio" name="C" /> IT
+      <input type="radio" name="C"/> ETC
+      <input type="radio" name="C"/> Mech
+      <input type="radio" name="C"/> Civil
+      </td>
+        <td>Specialization :</td>
+       <td><select>
+        <option>----- AIML/ DS/ CS/ CC/ IoT -----</option>
+        <option>Artificial intelligence & Machine learning</option>
+        <option>Data Science</option>
+        <option>Cyber Security</option>
+        <option>Cloud Computing</option>
+        <option>Iot</option>
+      </select>
+      </td>
+   </tr>
+   <tr>
+      <td>Student's photo :</td>
+      <td><input type="file" /></td>
+   </tr>
+   <tr>
+      <td colspan="20" align="center">
+      <input type="submit" value="REGISTER" />
+      </td>
+   </tr>
+   </table>
+   </form>
+  </body>
+  </html>
+
