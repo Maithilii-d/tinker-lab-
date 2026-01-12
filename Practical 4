@@ -1,0 +1,35 @@
+<!doctype=html>
+<html>
+<head>
+    <title> PRACTICAL 4(CSS) </title>
+    <style>
+     body {  background-image:url(https://wallpaperaccess.com/full/679017.jpg);
+        background-size:cover;
+        background-attachment:fixed;  }
+    </style>
+    </head>
+ <body> 
+      <h1><u><font color="teal">DIFFERENT PROGRAMMING LANGUAGES</h1></u></font>
+    <p style="color:crimson;">
+Programming languages are formal systems of communication designed to give instructions to computers. They serve as the bridge between humans and machines, allowing developers to write software that computers can execute. Each programming language has its own syntax and rules, which dictate how commands and functions should be written to perform specific tasks. These languages range from very low-level, close to the hardware, to high-level languages that abstract away complex details, making it easier for humans to program.
+   </p> 
+   <ol type="1">
+   <li><h3><u><font color="teal">C Programming Language</h3></li></u>
+  <p style="color:MidnightBlue;">
+C was first released in 1972.During the past decades,C has become one of the most widely used programming languages ever to exist.C is used for creating a variety of programs for computers, such as operating systems.If you are new to programming, C is not going to be the easiest programming language to learn. The syntax is somewhat complex and cryptic but when you master it.C had a strong influence on some other programming languages, too.What is C used for?Operating systems and system tools,Game development,Advanced computation and graphics,Compilers,Enterprise software
+  </p></font>
+   <li><h3><u><font color="teal">HTML</h3></li></u></font>
+  <p style="color:MidnightBlue;">
+HyperText Markup Language or HTML is used to creating structured content for all websites on the WWW. Instead of a programming language, HTML is a markup language.You can use HTML to create the structure and the content for a web page, such as:Navigation menus,Sidebars,Footer areas,Headings and paragraphs,Lists,Embedded images and other media and more. HTML is used for Building the structure web page: sections, rows, columns,Creating individual content elements: paragraphs, headings, lists, embedded images, etc.
+  </p>
+   <li><h3><u><font color="teal">Java</h3></li></u></font>
+  <p style="color:MidnightBlue;"> 
+Java is one of the most popular and widely-used programming languages in the world.You can use Java for a variety of different projects, from coding Android smartphone apps to building complex desktop applications. At the time of updating this article, Java holds the 3rd place in the TIOBE Index that ranks programming languages based on how often people search for them on the most common search engines.Java is used for Mobile development (Android),Desktop software (cross-platform),Game development,Big data technology
+  </p>
+   <li><h3><u><font color="teal">Python</h3></li></u></font>
+  <p style="color:MidnightBlue;">
+Python is one of the most beginner-friendly programming languages out there.First developed by Guido van Rossum in the 1990s, Python has become one of the most popular programming languages worldwide.If you are new to coding, Python is the perfect for learning the fundamentals of programming.It reads a lot like English, so it’s relatively intuitive to learn and easy to pick up.This means you can dedicate more time to learning what programming is all about and learn the basics of coding in general.
+  </p>
+   </body>
+   </html>
+
